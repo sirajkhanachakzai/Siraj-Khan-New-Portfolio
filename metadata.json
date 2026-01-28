@@ -1,0 +1,8 @@
+{
+  "name": "Siraj Khan Achakzai — Futuristic AI Portfolio",
+  "description": "A high-end, futuristic tech profile featuring a built-in Gemini AI assistant, glassmorphism UI, and interactive showcases.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
